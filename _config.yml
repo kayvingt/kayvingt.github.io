@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Please Here Land Here Please
-tagline:             'A Place Thing'
-description:         'This is here.'
+title:               Orr's Apples
+tagline:             'Better than horse chestnuts'
+description:         'I have things to say.'
 url:                 http://majormajormajormajor.com
 baseurl:             ''
 paginate:            5
@@ -18,4 +18,4 @@ author:
   email:             kayvingt@gmail.com
 
 # Custom vars
-version:             1.0.0
+
