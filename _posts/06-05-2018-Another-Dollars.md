@@ -9,10 +9,16 @@ So Microsoft bought the internet and here we are.
 
 I don't often wake up and feel woken up.  
 Usually I feel very tired and not awoken.  
-For instance, I am currently not awoken but aslope.  
+For instance, I am currently not awoken but aslope.
+
+<br>
+
 Aslan lopes.  
-I still love Applets and Cotlets because of that scene where Edmond gets the Turkish Delight from the White Witch in the BBC miniseries<sup id="a1">[1](#f1)</sup>.  
-But I digest.  
+I still love Applets and Cotlets because of that scene where Edmond gets the Turkish Delight from the White Witch in the BBC produced television serial<sup id="a1">[1](#f1)</sup>.  
+But I digest.
+
+<br>
+
 You know I can be bothered and sometimes I am.  
 However, insofar as I have is a very there won't be a pension towards.
 
