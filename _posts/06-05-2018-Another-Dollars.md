@@ -26,4 +26,4 @@ Goodbye
 
 <br>
 
-<b id="f1">1</b> [Wiki Link](https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia_(TV_serial)#The_Lion,_the_Witch_and_the_Wardrobe). [↩](#a1)  
+<b id="f1">1</b> [See paragraph 5](https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia_(TV_serial)#The_Lion,_the_Witch_and_the_Wardrobe). [↩](#a1)  
