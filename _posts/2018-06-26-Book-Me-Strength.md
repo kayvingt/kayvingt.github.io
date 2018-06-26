@@ -7,7 +7,7 @@ Everything is a red line.
 
 ### I Can See Myself
 
-I am not detached from reality of my thoughts.
+I am not detached from the reality of my thoughts.
 I can hear myself thinking very clearly. 
 It's unpleasant and slow.
 Treacle. Bad Treacle.
