@@ -5,19 +5,17 @@ title: Goblin Owlbear Party
 
 As long as I'm better than someone.
 
-### GET THEE HENCE!
-
-<br>
-
-Are they half Goblin, one quarter owl, and one quarter bear?
-Or is it for Goblins and Owlbears?
-Why am I capitilizing Goblin but not Owl?
-What is a grammar?
-Who does a sentence?
-Dangle.
-Particles?
-No. Sand witches.
-Mud Merchants.
+### GET THEE HENCE! 
+ 
+Are they half Goblin, one quarter owl, and one quarter bear? 
+Or is it for Goblins and Owlbears? 
+Why am I capitilizing Goblin but not Owl? 
+What is a grammar? 
+Who does a sentence? 
+Dangle. 
+Particles? 
+No. Sand witches. 
+Mud Merchants. 
 It could have been blurse.
 
 <br>
