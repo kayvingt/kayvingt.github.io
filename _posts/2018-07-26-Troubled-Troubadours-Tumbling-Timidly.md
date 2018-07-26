@@ -24,14 +24,13 @@ Chip a canoe.
 
 <br>
 
-Demosthenes on a hand built raft.
+Demosthenes on a hand built raft.  
 Buenos Aires and Bruce Willis.
 
 <br>
 
 A jump too far.
 
-
-
+<br>
 
 Goodbye
