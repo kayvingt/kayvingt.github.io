@@ -9,7 +9,7 @@ As long as I'm better than someone.
 
 <br>
 
-<img src="/assets/Owlbear.jpg" alt="Behold! An Owlbear." style="width:210px;height:255px;"/>
+<img src="/assets/Owlbear.JPG" alt="Behold! An Owlbear." style="width:210px;height:255px;"/>
 
 <br>
 
