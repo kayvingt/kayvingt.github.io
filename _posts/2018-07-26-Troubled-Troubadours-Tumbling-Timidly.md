@@ -5,8 +5,14 @@ title: Goblin Owlbear Party
 
 As long as I'm better than someone.
 
-### GET THEE HENCE!  
-  
+### GET THEE HENCE!
+
+<br>
+
+<img src="/assets/Owlbear.jpg" alt="Behold! An Owlbear." style="width:210px;height:255px;"/>
+
+<br>
+
 Are they half Goblin, one quarter owl, and one quarter bear?  
 Or is it for Goblins and Owlbears?  
 Why am I capitilizing Goblin but not Owl?  
