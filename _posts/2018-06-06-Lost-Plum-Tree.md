@@ -8,15 +8,12 @@ Skip this line and read the next line instead.
 ### Fast Like Mustard
 
 There are good reasons to lose sleep and there are not good reasons to lose sleep.  
-As a person who doesn't get enough sleep it's usually for a stupid reason. So stupid.  
-It's the thread that hasn't left, it trails back behind me for almost two decades now.  
-I can barely see the beginning.  
-It's the most stupid, the best stupid. The real stupid.
+REDACTED
 
 <br>
 
 This plum flavored gum doesn't taste like anything anymore. I still like to chew on it.  
-God of the sea and minty freshness.
+REDACTED
 
 <br>
 
