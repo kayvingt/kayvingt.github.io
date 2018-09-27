@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Me Is
 ---
 
 <br>
@@ -9,6 +9,6 @@ title: About
 
 <br>
 
-I am a human adult.
+I am and human adult.
 
 ---
