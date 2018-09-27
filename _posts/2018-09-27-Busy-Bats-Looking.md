@@ -7,7 +7,7 @@ One wad of lunch meat.
 
 ### Mind the Gap
 
-<img src="/assets/jood-gob.jpg" alt="Good Job." style="width:500px;height:367px;"/
+<img src="/assets/jood-gob.jpg" alt="Good Job." style="width:500px;height:367px;"/>
 
 The formula will make a cake.  
 The cake has jam in it.  
